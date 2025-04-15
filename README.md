@@ -1,6 +1,6 @@
 # Super Chill
 
-![GIF](preview1.gif) 
+![GIF](preview2.gif) 
 
 **Super Chill**은 카메라 연출과 회피 타이밍을 핵심인 TPS 게임입니다. 
 
