@@ -1,2 +1,2 @@
 # KJ3-W05
-Game Development Project - Week 05 (Krafton Jungle 3rd)
+Game Development Project - Week 01 (Krafton Jungle GameLab 3rd)
