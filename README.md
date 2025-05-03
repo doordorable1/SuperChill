@@ -11,13 +11,6 @@
 게임 빌드는 [여기](https://github.com/goalgoloo1/SuperChill/releases/tag/1.0.0)에서 다운로드 가능합니다! ✨
 
 
-## Authors
-
-*   **Vomeee** - [Github](https://github.com/Vomeee)
-*   **seokwonJ** - [Github](https://github.com/seokwonJ)
-*   **vcds1029** - [Github](https://github.com/vcds1029)
-*   **urbanmaid** - [Github](https://github.com/urbanmaid)
-*   **goalgoloo1** - [Github](https://github.com/goalgoloo1)
 
   ## Known Issues
 
